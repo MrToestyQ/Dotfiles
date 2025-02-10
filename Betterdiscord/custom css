@@ -1,0 +1,9 @@
+.theme-dark{
+	--background-primary: transparent;
+	--background-primary-alt: #000000f0;
+	--background-secondary: #00000000;
+	--background-secondary-chat: #00000000;
+	--background-secondary-alt: #00000000;
+	--background-tertiary: #0000002f;
+	--background-logo: #00000000;
+}
